@@ -4,7 +4,7 @@ public class Person
 {
     private int _age;
 
-    public Person(int age)
+    internal Person(int age)
     {
         _age = age;
     }
